@@ -18,13 +18,6 @@
 
 ---
 
-## 🚀 Installation
-
-### Prerequisites
-
-- [.NET 10.0 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
-- [Visual Studio 2022/2026](https://visualstudio.microsoft.com/) or [JetBrains Rider](https://www.jetbrains.com/rider/)
-
 ### Tech Stack
 
 | Layer | Technology |
