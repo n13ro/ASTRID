@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎬 SystemLiza (ASTRID)
+# 🎬 ASTRID
 
 ### Watch movies together, anywhere in the world
 
