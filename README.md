@@ -2,11 +2,6 @@
 
 # 🎬 ASTRID
 ### Watch movies together, anywhere in the world
-
-[![.NET](https://img.shields.io/badge/.NET-10.0-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
-[![Avalonia UI](https://img.shields.io/badge/Avalonia_UI-11.x-8B44AC?style=for-the-badge&logo=avalonia&logoColor=white)](https://avaloniaui.net/)
-[![SignalR](https://img.shields.io/badge/SignalR-Realtime-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://docs.microsoft.com/aspnet/signalr/)
-[![License](https://img.shields.io/badge/License-LGPL_2.1-blue?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)]()
 
 <br/>
