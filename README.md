@@ -36,11 +36,11 @@
 - [x] Real-time chat
 - [ ] Leader system with crown
 - [x] Custom window chrome
-- [x] Video player integration
+- [ ] Video player integration
 - [ ] Screen sharing
 - [ ] Voice chat
-- [x] User profiles & avatars
-- [x] Room persistence (database)
+- [ ] User profiles & avatars
+- [ ] Room persistence (database)
 - [ ] Mobile apps (iOS/Android)
 - [ ] Web client
 
