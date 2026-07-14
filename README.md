@@ -66,6 +66,6 @@
 
 **Made by ASTRID team with ❤️**
 
-[![GitHub stars](https://img.shields.io/github/stars/n13ro/SystemLiza?style=social)](https://github.com/n13ro/SystemLiza/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/n13ro/SystemLiza?style=social)](https://github.com/n13ro/ASTRID/stargazers)
 
 </div>
